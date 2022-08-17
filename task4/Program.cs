@@ -1,4 +1,5 @@
 ﻿// Определяем есть ли в массиве заданное число.
+
 Console.WriteLine("Введите размер массива: ");
 int x = int.Parse(Console.ReadLine());
 int[] myArray = new int[x];
